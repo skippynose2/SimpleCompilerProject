@@ -1,0 +1,7 @@
+10 input x
+20 input y
+30 let x = x-y 
+30 if x-y > y goto 50
+40 print y
+50 print x
+60 end
